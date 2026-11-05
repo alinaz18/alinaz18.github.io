@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alinaz18.github.io/gta5rp-launcher-linux/sitemap.xml
